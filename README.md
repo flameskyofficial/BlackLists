@@ -4,4 +4,6 @@ The admins of FlameSky noticed when FlameSky was developed, that it was really d
 # Organization
 The list is organized by categories.
 
+#Contents
 
+Just because FlameSky has a category does not necessarily mean it endorses the blocking of such categories of website
